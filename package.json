@@ -1,9 +1,9 @@
 {
-  "name": "clang-format",
-  "displayName": "Clang-Format",
+  "name": "clang-format-support-style-variable",
+  "displayName": "Clang-Format-Support-Style-Variable",
   "description": "Use Clang-Format in Visual Studio Code",
-  "version": "1.9.0",
-  "publisher": "xaver",
+  "version": "1.0.0",
+  "publisher": "nofoot",
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -328,7 +328,7 @@
   "icon": "clang-format.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xaverh/vscode-clang-format-provider"
+    "url": "https://github.com/0xnofoot/vscode-clang-format.git"
   },
   "license": "MIT"
 }
